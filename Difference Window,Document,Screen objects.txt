@@ -1,0 +1,39 @@
+Hello Mentor,
+
+1. Difference between Window,Document,Screen objects
+
+Window object:
+1. Window object is the top most object in the DOM heirarchy.
+2. It represents a browser window or frame that displays the content of the webpage.
+3. We can see the document object or webpage in the window frame.
+4. It is the object of the browser.
+
+Syntax:
+window.proprty_name;
+
+Example:
+window.self: It provides another way to refer to the current window.
+
+Document object:
+1. The document object denotes a webpage that can be loaded in the browser.
+2. By accessing the document object, we can access the element of the HTML page.
+3. With the help of doument object we can add a dynamic content to our webpage.
+4. it is the object of window property.
+
+Syntax:
+document.property_name;
+
+Example:
+document.tittle: It will return the title of the document.
+
+Screen object:
+1. It is the information of physical sreen dimension
+2. We can access it to check the dimension.
+3. It is the object of the window property.
+
+Syntax:
+screen.property_name;
+Example:
+screen.width: It provides the width the physical screen used.
+
+

@@ -1,0 +1,26 @@
+{
+    "Name": "Vijay Shankar",
+    "Age": "27",
+    "DOB": "09-07-1995",
+    "Education": "Mechanical Engineering",
+    "Score": 8.83,
+    "Passed out year": "2017",
+    "Skills": "CAD",
+    "Designation": "Ingenieur",
+    "Experience": "5 Years as Design Engineer",
+    "Employer": {
+        "Employer 1": "R&M Marine Engineering",
+        "Employer 2": "Future Pipe Industries",
+        "Employer 3": "TGA Engineer"
+    },
+    "Language": [
+        "English",
+        "Tamil",
+        "German"
+    ],
+    "Projects": {
+        "Project1": "ShipDesign",
+        "Project2": "Pipe Design"
+    },
+    "Plans": "Want to become Full Stack Developer"
+}
