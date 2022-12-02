@@ -6,20 +6,20 @@
     "Score": 8.83,
     "Passed out year": "2017",
     "Skills": "CAD",
-    "Designation": "Ingenieur",
+    "Designation": "Engineer",
     "Experience": "5 Years as Design Engineer",
     "Employer": {
-        "Employer 1": "R&M Marine Engineering",
-        "Employer 2": "Future Pipe Industries",
-        "Employer 3": "TGA Engineer"
+        "Employer 1": "Marine Engineering",
+        "Employer 2": "Industries",
+        "Employer 3": "Engineer"
     },
     "Language": [
         "English",
         "Tamil",
-        "German"
+   
     ],
     "Projects": {
-        "Project1": "ShipDesign",
+        "Project1": "Design and Engineering",
         "Project2": "Pipe Design"
     },
     "Plans": "Want to become Full Stack Developer"
