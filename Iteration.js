@@ -1,7 +1,7 @@
 //For Iteration of data
 //-------------------------------//
 var Biofor = [{
-    name: "Vijayshankar",
+    name: "Vijay Shankar",
     Age: "26",
     dob: "09-07-1995",
     Education: "Mechanical Engineering",
